@@ -9,5 +9,19 @@
     <string name="what_does_this_do">What does this do ?</string>
     <string name="image">Image</string>
     <string name="todo">TODO</string>
+    <string name="camera_error" >camera error</string>
+    <string name="dialog_message" >dialog message</string>
+    <string name="dialog_title" >dialog title</string>
+    <string name="ok" >ok</string>
+    <string name="cancel" >cancel</string>
+    <string name="switchCheck" >switch check</string>
+    <string name="login_text" >login text</string>
+    <string name="login_name" >login name</string>
+    <string name="password_text" >password text</string>
+    <string name="switch_text" >switch text</string>
+    <string name="logintext" >login text</string>
+    <string name="StartChat" >start chat</string>
+    <string name="type_chat_hint">type_chat_hint</string>
+    <string name="sendchat">send chat</string>
 
 </resources>

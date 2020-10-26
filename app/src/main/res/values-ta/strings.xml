@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources><string name="app_name">Assignment 1</string>
     <string name="hello_message">Vannakam!</string>
-    <string name="ButtonText">I\’m a button</string>
-    <string name="Login">Login</string>
-    <string name="password">Password</string>
-    <string name="RadioButton">"Radio "</string>
-    <string name="CheckBox">Check Box</string>
-    <string name="todo">To Do</string>
-    <string name="what_does_this_do">What does this do?</string>
-    <string name="image">Image</string>
+    <string name="ButtonText">Naan Oru Pottāṉai</string>
+    <string name="Login">Uḷnuḻaiya</string>
+    <string name="password">Kaṭavuccol</string>
+    <string name="RadioButton">Vāṉoli Pottāṉai</string>
+    <string name="CheckBox">Peṭṭiyai caripārkkavum</string>
+    <string name="todo">Ceyya</string>
+    <string name="what_does_this_do">"Itu eṉṉa ceykiṟatu "</string>
+    <string name="image">Paṭam</string>
+    <string name="camera_error">Kēmarā piḻai</string>
+    <string name="dialog_message">Uraiyāṭal ceyti</string>
+    <string name="dialog_title">Uraiyāṭal talaippu</string>
+    <string name="ok">Cari</string>
+    <string name="cancel">Rattucey</string>
+    <string name="switchCheck">Cuviṭc kācōlai</string>
+    <string name="login_text">Uḷnuḻaivu urai</string>
+    <string name="login_name">Uḷnuḻaivu peyar</string>
+    <string name="password_text">Kaṭavuccol Urai</string>
+    <string name="switch_text">Uraiyai māṟṟavum</string>
+    <string name="logintext">Uḷnuḻaivu urai</string>
+    <string name="StartChat">Araṭṭai toṭaṅkavum</string>
+    <string name="type_chat_hint">Araṭṭai kuṟippait taṭṭaccu ceyka</string>
+    <string name="sendchat">Araṭṭai aṉuppu</string>
 </resources>
